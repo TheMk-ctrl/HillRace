@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Hill Climb Racing-1.0";
 const contentToCache = [
-    "Build/паро.loader.js",
-    "Build/паро.framework.js",
-    "Build/паро.data",
-    "Build/паро.wasm",
+    "Build/приисмит.loader.js",
+    "Build/приисмит.framework.js",
+    "Build/приисмит.data",
+    "Build/приисмит.wasm",
     "TemplateData/style.css"
 
 ];
